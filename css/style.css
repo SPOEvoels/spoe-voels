@@ -9,12 +9,12 @@ body {background:#16316b;border:0;font:12px Arial, Helvetica, sans-serif;color:#
 .css3 {border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;box-shadow:0 0 4px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 4px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 4px rgba(0, 0, 0, .4);behavior:url(js/PIE.htc);position:relative}
 .main {margin:0 auto;width:952px;position:relative}
 /*.body1 {background:url(../images/bg_img2.png) no-repeat;width:262px;height:397px;position:absolute;top:0;right:6px;z-index:2}*/
-.body2 {background:url(../images/bg_cont.jpg) bottom repeat-x #1b3b7b}
+.body2 {background:url(../images/bg.jpg) top no-repeat;background-size:cover}
 .body3 {background:url(../images/gruppe.jpg) center 0px no-repeat}
 .body4 {background:url(../images/bg_top.png) top repeat-x}
-.body7 {background:url(../images/bg_bot.jpg) bottom center no-repeat}
-.body5 {background:url(../images/bg_footer_repeat.gif) top repeat-x}
-.body6 {background:url(../images/bg_footer.jpg) top center no-repeat}
+/*.body7 {background:url(../images/bg.jpg) bottom center no-repeat}*/
+/*.body5 {background:url(../images/bg_footer_repeat.gif) top repeat-x}
+.body6 {background:url(../images/bg_footer.jpg) top center no-repeat}*/
 a {color:#fff;text-decoration:underline;outline:none}
 a:hover {text-decoration:none}
 h1 {padding:36px 0 0 22px}
